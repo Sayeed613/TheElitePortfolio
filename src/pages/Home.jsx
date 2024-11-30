@@ -126,7 +126,7 @@ function Home() {
   }, []);
 
   return (
-    <div id="home" className="relative w-full h-screen overflow-hidden">
+    <div id="home" className="relative w-full h-screen">
       <canvas
         ref={canvasRef}
         className="absolute top-0 left-0 w-full h-full z-0"
