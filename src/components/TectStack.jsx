@@ -49,17 +49,17 @@ export default function TectStack() {
     });
   }, []);
   const images = [
-    "/src/assets/teck-stack-icons/html.png",
-    "/src/assets/teck-stack-icons/css.png",
-    "/src/assets/teck-stack-icons/js.png",
-    "/src/assets/teck-stack-icons/react.png",
-    "/src/assets/teck-stack-icons/nodejs.png",
-    "/src/assets/teck-stack-icons/express.js.png",
-    "/src/assets/teck-stack-icons/mongodb.png",
-    "/src/assets/teck-stack-icons/tailwindcss.png",
-    "/src/assets/teck-stack-icons/acernityUi.ico",
-    "/src/assets/teck-stack-icons/figma.png",
-    "/src/assets/teck-stack-icons/three.js.png",
+"https://i.postimg.cc/76g6V8zm/html.png",
+    "https://i.postimg.cc/pLDzSzRW/css.png",
+    "https://i.postimg.cc/SQgqpxmc/js.png",
+    "https://i.postimg.cc/yNjpSWQP/react.png",
+    "https://i.postimg.cc/fLFGJJyP/nodejs.png",
+    "https://i.postimg.cc/cHKjy0hB/express-js.png",
+    "https://i.postimg.cc/y8tcpKJH/mongodb.png",
+    "https://i.postimg.cc/jdCDp9Yd/tailwindcss.png",
+    "https://i.postimg.cc/rpn88ykd/saddd-1.png",
+    "https://i.postimg.cc/FRB43TWD/figma.png",
+    "https://i.postimg.cc/ZqYnLDHS/three-js.png",
   ];
 
   const languages = [
