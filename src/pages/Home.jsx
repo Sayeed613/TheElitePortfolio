@@ -71,7 +71,7 @@ function Home() {
     let spaceObject = null;
 
     loader.load(
-      "/public/model/scene.gltf",
+      "/model/scene.gltf",
       (gltf) => {
         if (spaceObject) return;
         spaceObject = gltf.scene;
