@@ -17,7 +17,7 @@ body {
   scrollbar-width: none;
   background-color: black;
   font-family: "Bebas Neue", sans-serif;
-  overflow: auto; /* Ensure body can scroll on small screens */
+  overflow: auto;
 }
 
 .bebas-neue-regular {
@@ -86,9 +86,5 @@ canvas {
 @media (max-width: 768px) {
   html, body {
     overflow: auto; /* Allow scrolling */
-  }
-
-  #home {
-    height: auto; /* Allow home section to expand based on content */
   }
 }
